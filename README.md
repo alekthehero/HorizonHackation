@@ -1,4 +1,4 @@
-Horizon AI Hackathon. StoryRX a LLM tool for diagnosing and education of all thing medical!
+Horizon AI Hackathon. StoryRX a LLM tool for diagnosing and education of all things medical!
 
 Your Health, Your Story.
 
